@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+section{
+    height: 100vh;
+}
+h1{
+    position: absolute;
+    text-align: center;
+}
+.hintergrund{
+    background: url(../img/photo-1534430480872-3498386e7856.jpeg);
+}
